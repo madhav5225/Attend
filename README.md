@@ -15,3 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/49210766/72679489-a17d2600-3ad5-11ea-82e2-aba8367f69b9.jpeg" width="184" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49210766/72679491-a2ae5300-3ad5-11ea-914a-53433c09acbc.jpeg" width="184" height="400">
 </p>
+•	teacher can see attendance list of students of his subject and send mail.
+<img src="https://user-images.githubusercontent.com/49210766/72679645-35032680-3ad7-11ea-9ac5-5d8082aa8cf4.jpeg" width="184" height="400">
+•	Students would be able to see their percentage attendance of each subject.
+<
